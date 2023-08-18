@@ -141,9 +141,9 @@ node .
 
 ## Thanks To
 ```bash
-𝐀𝐮𝐭𝐡𝐨𝐫 : Dims
-Base : Narutomo and Elaina
-Supported By Fauzan
+Author : Dims
+Base : Clara
+
 Thanks To : 
 - Adiwajshing (Author Baileys)
 - Nurutomo (Author Wabot-Aq)
