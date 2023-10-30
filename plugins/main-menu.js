@@ -397,7 +397,7 @@ let awal = `
 ┆•︎ *Database:* ${rtotalreg} dari ${totalreg}
 ┖────────────┈ ⳹
 
-╭─「 *List Menu Euphyllia* 」
+╭─「 *List Menu Filia* 」
 ╎ぎ *Menu Ai*
 ╎ぎ *Menu Anime*
 ╎ぎ *Menu Download*
