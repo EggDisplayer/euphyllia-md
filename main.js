@@ -169,7 +169,7 @@ async function connectionUpdate(update) {
   if (connection == 'open') console.log(chalk.green('Berhasil Tersambung'))
   if (isOnline == true) console.log(chalk.green('Status Aktif'))
   if (isOnline == false) console.log(chalk.red('Status Mati'))
-  if (update.receivedPendingNotifications) conn.sendMessage(`62895385006567@s.whatsapp.net`, {text: 'Aku online sayang ><' })
+  if (update.receivedPendingNotifications) conn.sendMessage(`62975626924@s.whatsapp.net`, {text: 'Aku online sayang ><' })
   if (connection == 'close') console.log(chalk.red('⏱ Koneksi Terputus Dan Mencoba Menyambung Kembali...'))
   global.timestamp.connect = new Date
   if (lastDisconnect && lastDisconnect.error && lastDisconnect.error.output && lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut && conn.ws.readyState !== CONNECTING) {
