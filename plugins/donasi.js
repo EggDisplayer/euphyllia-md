@@ -11,7 +11,7 @@ let sewa = `
 ┊• *Permanen:* 30K
 ╰────────────๑
 ┌─「 *Donasi & Payment* 」
-│ • *Pulsa:* [${global.povo}]
+│ • *Pulsa:* [${global.ppulsa}]
 │ • *Dana:* 0895359831246
 ❏──────────────๑
 `
