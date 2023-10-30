@@ -1,5 +1,5 @@
 let handler  = async (m, { conn }) => {
-  if (m.sender == info.nomorown1 + '@s.whatsapp.net') throw 'Kok pake ditanya, *Aku* udah pasti 100% cantik'
+  if (m.sender == info.nomorbot + '@s.whatsapp.net') throw 'Kok pake ditanya, *Aku* udah pasti 100% cantik'
   if (m.sender == info.nomorown + '@s.whatsapp.net') throw 'Owner aku tuh Cowok, jadinya dia itu ganteng bukan cantik -_-'
   conn.reply(m.chat,`“${pickRandom(cantik)}”`, m)
 }
