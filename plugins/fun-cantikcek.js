@@ -4,7 +4,7 @@ let handler  = async (m, { conn }) => {
   conn.reply(m.chat,`“${pickRandom(cantik)}”`, m)
 }
 handler.help = ['cantikcek']
-handler.tags = ['game']
+handler.tags = ['fun']
 handler.command = /^(cantikcek)$/i
 
 export default handler 
