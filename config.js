@@ -1,14 +1,3 @@
-// Script Ori By Xyroinee
-// Ditulis ulang oleh Im-Dims??
-// Credits, jangan dihapus atau diubah!
-
-// - - Thanks To - -
-// • Allah Swt
-// • Wh Mods Dev
-// • Xyroinee
-// • Creator Rest Api
-// • Dll
-
 // [!] jangan lupa ganti ownernya //
 
 import { watchFile, unwatchFile } from 'fs'
@@ -41,49 +30,49 @@ const readMore = more.repeat(4001)
 
 
 global.owner = [
-['6281398274790', 'Dims', true]
+['62975626924', 'SenR', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282113847022'
-global.nomorown = '6281398274790'
-global.nomorown1 = '6281398274790'
-global.nomorown2 = '6281398274790'
-global.nomorwa = '6285607265790'
+global.nomorbot = '62895359831246'
+global.nomorown = '62975626924'
+global.nomorown1 = '62975626924'
+global.nomorown2 = '62975626924'
+global.nomorwa = '62975626924'
 
 
 global.readMore = readMore
-global.author = 'Dims'
-global.namebot = '​Euphyllia - Multidevice'
-global.wm = '© Euphyllia By dims'
-global.media = 'https://telegra.ph/file/02a8d3c4b00146bbfeb5d.jpg'
+global.author = 'SenR'
+global.namebot = '🍔Filia✨'
+global.wm = '🍔Filia by SenR✨'
+global.media = 'https://telegra.ph/file/fe126cd4c7b8b3e924f75.jpg'
 global.watermark = wm
-global.wm2 = 'Euphyllia Bot'
+global.wm2 = 'FILIA Bot'
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.bottime = `Time: ${wktuwib}`
-global.titlebot = `Euphyllia - MD`
-global.stickpack = 'Euphyllia By'
-global.stickauth = `© Dims`
+global.titlebot = `🍔Filia✨`
+global.stickpack = '🍔Filia✨'
+global.stickauth = `SenR`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
-global.nameown1= 'Dims'
-global.nameown2 = 'Dims'
+global.nameown1= 'SenR'
+global.nameown2 = 'SenR'
 global.Linkgc = 'Bentar'
 global.lynk = '-'
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
 global.sig = 'https://www.instagram.com/' //instagram
-global.sgh = 'https://github.com/Im-Dims' //github
-global.sgc = 'https://chat.whatsapp.com/CHVe6nOEBcw1aRamTnHQ4q' //group whatsapp
+global.sgh = 'https://github.com/SenRyhn' //github
+global.sgc = 'https://chat.whatsapp.com/B7WsidKUsBpE1Y0KXsy9po' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/@DimsT1943' //youtube
+global.snh = '-' //youtube
 //Donasi/Payment
-global.psaweria = 'https://saweria.co/'
-global.ptrakterr = 'https://trakteer.id/'
-global.pdana = '6282113847022' // dana
-global.povo = '6281398274790'
+global.psaweria = 'https://saweria.co/SenR'
+global.ptrakterr = '-'
+global.pdana = '62895359831246' // dana
+global.povo = '-'
 global.pgopay = '-' // gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '-' // pulsa
+global.ppulsa = '62895359831246' // pulsa
 global.ppulsa2 = '-' //pulsa 2
 global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
