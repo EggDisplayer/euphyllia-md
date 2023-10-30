@@ -1,10 +1,10 @@
 let handler  = async (m, { conn }) => {
   if (m.sender == info.nomorown + '@s.whatsapp.net') throw 'Inimah Owner Aku Udah Pasti 100% Ganteng'
-  if (m.sender == info.nomorown1 + '@s.whatsapp.net') throw 'Aku Cewek, jadinya aku itu cantik bukan ganteng -_-'
+  if (m.sender == info.nomorbot + '@s.whatsapp.net') throw 'Aku Cewek, jadinya aku itu cantik bukan ganteng -_-'
   conn.reply(m.chat,`“${pickRandom(ganteng)}”`, m)
 }
 handler.help = ['gantengcek']
-handler.tags = ['game']
+handler.tags = ['fun']
 handler.command = /^(gantengcek)$/i
 
 export default handler 
