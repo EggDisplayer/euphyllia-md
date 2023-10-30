@@ -6,11 +6,13 @@ let sewa = `
 ┊• *1 Bulan:* 15K
 ┊• *Permanen:* 50K
 ┠──「 *PREMIUM* 」
-┊• *1 Bulan:* 10K
+┊• *1 Minggu:* 5K
+┊• *1 Bulan:* 15K
+┊• *Permanen:* 30K
 ╰────────────๑
 ┌─「 *Donasi & Payment* 」
-│ • *Ovo:* [${global.povo}]
-│ • *Dana:* 6282113847022
+│ • *Pulsa:* [${global.povo}]
+│ • *Dana:* 0895359831246
 ❏──────────────๑
 `
 conn.sendMessage(m.chat, { image: { url: pay }, caption: sewa, m)
