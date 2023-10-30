@@ -739,7 +739,7 @@ ${readmore}
       text: ai,
       contextInfo: {
       externalAdReply: {
-      title: `Euphyllia - Multidevice`,
+      title: `🍔Filia✨`,
       body: global.author,
       thumbnailUrl: global.imagebot,
       sourceUrl: sgc,
@@ -752,7 +752,7 @@ ${readmore}
       text: anim,
       contextInfo: {
       externalAdReply: {
-      title: `Euphyllia - Multidevice`,
+      title: `🍔Filia✨`,
       body: global.author,
       thumbnailUrl: global.imagebot,
       sourceUrl: sgc,
@@ -765,7 +765,7 @@ ${readmore}
       text: search,
       contextInfo: {
       externalAdReply: {
-      title: `Euphyllia - Multidevice`,
+      title: `🍔Filia✨`,
       body: global.author,
       thumbnailUrl: global.imagebot,
       sourceUrl: sgc,
@@ -778,7 +778,7 @@ ${readmore}
       text: download,
       contextInfo: {
       externalAdReply: {
-      title: `Euphyllia - Multidevice`,
+      title: `🍔Filia✨`,
       body: global.author,
       thumbnailUrl: global.imagebot,
       sourceUrl: sgc,
@@ -791,7 +791,7 @@ ${readmore}
       text: tools,
       contextInfo: {
       externalAdReply: {
-      title: `Euphyllia - Multidevice`,
+      title: `🍔Filia✨`,
       body: global.author,
       thumbnailUrl: global.imagebot,
       sourceUrl: sgc,
@@ -804,7 +804,7 @@ ${readmore}
       text: maker,
       contextInfo: {
       externalAdReply: {
-      title: `Euphyllia - Multidevice`,
+      title: `🍔Filia✨`,
       body: global.author,
       thumbnailUrl: global.imagebot,
       sourceUrl: sgc,
@@ -817,7 +817,7 @@ ${readmore}
       text: random,
       contextInfo: {
       externalAdReply: {
-      title: `Euphyllia - Multidevice`,
+      title: `🍔Filia✨`,
       body: global.author,
       thumbnailUrl: global.imagebot,
       sourceUrl: sgc,
@@ -830,7 +830,7 @@ ${readmore}
       text: group,
       contextInfo: {
       externalAdReply: {
-      title: `Euphyllia - Multidevice`,
+      title: `🍔Filia✨`,
       body: global.author,
       thumbnailUrl: global.imagebot,
       sourceUrl: sgc,
@@ -843,7 +843,7 @@ ${readmore}
       text: game,
       contextInfo: {
       externalAdReply: {
-      title: `Euphyllia - Multidevice`,
+      title: `🍔Filia✨`,
       body: global.author,
       thumbnailUrl: global.imagebot,
       sourceUrl: sgc,
@@ -856,7 +856,7 @@ ${readmore}
       text: sticker,
       contextInfo: {
       externalAdReply: {
-      title: `Euphyllia - Multidevice`,
+      title: `🍔Filia✨`,
       body: global.author,
       thumbnailUrl: global.imagebot,
       sourceUrl: sgc,
@@ -869,7 +869,7 @@ ${readmore}
       text: owner,
       contextInfo: {
       externalAdReply: {
-      title: `Euphyllia - Multidevice`,
+      title: `🍔Filia✨`,
       body: global.author,
       thumbnailUrl: global.imagebot,
       sourceUrl: sgc,
@@ -882,7 +882,7 @@ ${readmore}
       text: info,
       contextInfo: {
       externalAdReply: {
-      title: `Euphyllia - Multidevice`,
+      title: `🍔Filia✨`,
       body: global.author,
       thumbnailUrl: global.imagebot,
       sourceUrl: sgc,
