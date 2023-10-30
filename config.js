@@ -232,11 +232,11 @@ global.premnsfw = true
 // foto/image bot
 //ganti aja kalau ga tau cara gantinya buka telegra.ph upload
 //foto nya di situ terus salin link nya kesini
-global.lia = 'https://telegra.ph/file/e7d41d136aff71921c0f5.jpg'
-global.thumb = 'https://telegra.ph/file/3cdaaf791f4eeffe51416.jpg' 
-global.imagebot = 'https://telegra.ph/file/771ec1b185f02be1e573e.jpg'
-global.giflogo = 'https://telegra.ph/file/c02bad57b6ce1d594a11c.mp4'
-global.thumbs = ['https://telegra.ph/file/5adcb114b279c0085ac15.jpg']
+global.lia = 'https://telegra.ph/file/fe126cd4c7b8b3e924f75.jpg'
+global.thumb = 'https://telegra.ph/file/31b7a58077425cf994550.jpg' 
+global.imagebot = 'https://telegra.ph/file/7964588eb1cb333875e37.jpg'
+global.giflogo = 'https://telegra.ph/file/73c9409fe703fb3db1912.mp4'
+global.thumbs = ['https://telegra.ph/file/31b7a58077425cf994550.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg'
 ]
@@ -244,7 +244,7 @@ global.fotonya1 = ' '
 global.fotonya2 = ' ' 
 global.fsizedoc = '999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://telegra.ph/file/5adcb114b279c0085ac15.jpg'
+global.thumbdoc = 'https://telegra.ph/file/31b7a58077425cf994550.jpg'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
